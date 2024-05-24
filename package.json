@@ -1,6 +1,6 @@
 {
   "name": "tp-dsw-backend",
-  "version": "1.0.0",
+  "version": "13.14.0",
   "description": "TP DSW Backend",
   "main": "index.js",
   "scripts": {
