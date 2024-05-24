@@ -1,0 +1,24 @@
+{
+  "name": "tp-dsw-backend",
+  "version": "1.0.0",
+  "description": "TP DSW Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gutilolo/tp-dsw-backend.git"
+  },
+  "keywords": [
+    "backend",
+    "app",
+    "dsw"
+  ],
+  "author": "Ramiro Gutierrez, Pedro Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gutilolo/tp-dsw-backend/issues"
+  },
+  "homepage": "https://github.com/Gutilolo/tp-dsw-backend#readme"
+}
