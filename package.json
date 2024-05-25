@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Gutilolo/tp-dsw-backend#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "http-serve": "^1.0.1"
   }
 }
