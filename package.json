@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Gutilolo/tp-dsw-backend/issues"
   },
-  "homepage": "https://github.com/Gutilolo/tp-dsw-backend#readme"
+  "homepage": "https://github.com/Gutilolo/tp-dsw-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
